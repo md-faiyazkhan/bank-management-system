@@ -18,9 +18,8 @@ A console-based Bank Management System built using **Python** and the principles
 
 ## 🛠 Technologies Used
 
-- **Python 3.x**
+- **Python 3.12
 - **Object-Oriented Programming (OOP)**
-- **File Handling** (if used)
 - **Modular Programming**
 
 ---
@@ -41,5 +40,5 @@ BankManagementSystem/
 ├── Bank_program.py        # Main program file containing all banking logic and user interface
 ├── .gitignore             # Git ignore file to exclude unnecessary files/folders from version control
 ├── README.md              # Project documentation and instructions
-└── requirements.txt       # List of Python dependencies (if any)
+└── requirements.txt       # Python dependency
 

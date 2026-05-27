@@ -35,10 +35,11 @@ A console-based Bank Management System built using **Python** and the principles
 
 ## 📂 Project Structure
 
+```bash
 BankManagementSystem/
 │
 ├── Bank_program.py        # Main program file containing all banking logic and user interface
 ├── .gitignore             # Git ignore file to exclude unnecessary files/folders from version control
 ├── README.md              # Project documentation and instructions
 └── requirements.txt       # Python dependency
-
+```
